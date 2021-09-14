@@ -37,7 +37,7 @@ main{
 
 .table{
     width: 70%;
-    height: 500px;
+    height: 565px;
     background-color: #fff;
     margin: 45px auto;
     border-radius: 6px;
@@ -154,6 +154,28 @@ hr{
     font-size: 10px;
 }
 
+.website{
+    background-color: #d863a1;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 7px;
+    font-size: 10px;
+}
+
+.sales{
+    background-color: #b0c926;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 7px;
+    font-size: 10px;
+}
+
 .tasks{
     margin-top: 20px;
+}
+
+/* Upcoming */
+
+.upcoming{
+    margin-top: 25px;
 }
