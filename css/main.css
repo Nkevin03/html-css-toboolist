@@ -5,9 +5,15 @@
     font-family: sans-serif;
 }
 
+body{
+    background-color: #f6f8f9;
+}
+
+/* Header */
 
 header{
     padding: 10px;
+    background-color: #fff;
 }
 
 .logo{
@@ -19,4 +25,51 @@ header{
     font-size: 36px;
     vertical-align: middle;
     font-weight: bold;
+}
+
+/* Main */
+
+main{
+    height: 100vh;
+}
+
+/* Table */
+
+.table{
+    width: 70%;
+    height: 500px;
+    background-color: #fff;
+    margin: 45px auto;
+    border-radius: 6px;
+}
+
+/* Buttons */
+
+.buttons{
+   margin-left: 40px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.button1{
+    background-color: #47adf1;
+    border: 0;
+    padding: 8px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.button2{
+    background-color: #fff;
+    border: 1px solid #c5cbd0;
+    padding: 7px;
+    border-radius: 5px;
+    color: #d4d8dc;
+}
+
+hr{
+    border: 1px solid #f6f8f9;
+    margin-top: 10px;
 }
